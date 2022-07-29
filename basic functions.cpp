@@ -16,3 +16,4 @@ int main(){
   cin>>a;
   int k = fibo(a); 
   cout<<k;
+}
